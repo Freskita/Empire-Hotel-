@@ -1,0 +1,186 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant&family=Cormorant+SC:wght@300&family=Dosis:wght@500&family=Fira+Sans+Condensed&family=Labrada:ital,wght@1,700&family=Playfair+Display&family=Playfair+Display+SC:ital@0;1&family=Roboto+Flex:wght@200&family=Tinos&display=swap');
+
+.nav-link {
+    display: block;
+    color: #968e7d;
+    text-align: center;
+    padding: 14px 16px;
+    margin:15px;
+    text-decoration: none;
+    font-family: 'Roboto Slab',serif;
+    font-size: 13px;  
+    font-weight: 300;
+    text-transform: uppercase;
+  }
+  
+  #hero {
+    background-image: url("../images/foto1.png");
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+    margin-top: 2px;
+    position: relative;}
+
+  #titulli{
+      color: #867051;
+      font-size: 20px;
+      font-family: 'Cormorant SC',sans-serif;
+    }
+
+    #below .text-start {color: #867051;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin: 0px 10px;
+     font-size: 15px;}
+
+     #below .text-end {color: #867051;
+      font-family: 'Source Sans Pro', sans-serif;
+      margin: 0px 10px;
+       font-size: 15px;}
+  
+       .icon-text-container {
+        max-width: 300px; }
+
+.icon-text-container svg {
+  width: 24px;
+  height: 24px; 
+  vertical-align: middle; 
+  color:#867051;
+}
+
+.icon-text-container .text {
+  color:#867051;
+  font-size: 17px;
+  font-family: 'Cormorant SC',sans-serif;
+    display: inline-block;
+  vertical-align: middle;
+  margin-left: 20px;
+text-transform: uppercase;}
+
+.btn-primary{
+  background: #867051;
+  border:none;
+}
+
+#socials {margin-left: 180px;
+color:#867051;}
+
+
+
+
+#graypart {background-color: #20252D;
+  margin-top: 20px;
+display:flex;
+justify-content: center;
+align-items: center;
+border:none;}
+
+
+#graypart .card-body {background-color: #20252D;
+color:white;
+}
+#graypart .card-title { color:#867051;
+  font-size: 40px;
+  font-family: 'Cormorant SC',sans-serif;}
+  
+#baroque {color:#867051;
+font-size: 15px;
+font-family: 'Cormorant SC',sans-serif;}
+
+#tabela {display: flex;
+justify-content: center;
+align-items: center;
+gap:70px;
+border: #867051;
+}
+
+ .custom-thicker-row {
+  padding-top: 40px;   
+  padding-bottom: 40px; 
+}
+
+#mainpic {
+  
+  background-image: url("../images/foto5.png");
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center center;
+  height: 100vh;
+  position: relative;
+  margin-top: 100px;
+}
+
+
+#iron {
+  background-color: white;;
+  text-align: center;
+  margin: 70px;
+}
+
+
+#iron h2 { color: #867051;
+  font-family: 'Roboto Slab',serif;} 
+
+#iron p {color:#867051;
+  font-family: 'Cormorant SC',sans-serif;
+  font-weight: lighter;} 
+
+hr  {
+  width: 10%;
+  margin-left: 580px;
+  border: 1px solid #867051;
+  display: flex;
+  justify-content: center;}
+
+
+  #quadro {background-color:#20252D;
+  color:white;}
+
+  #quadro .card-title{color:#867051;
+    font-family: 'Cormorant SC',sans-serif;
+text-align: center;}
+
+#quadro .card-body{text-align: justify;}
+
+
+#skech {display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+color:#867051;
+font-family: 'Cormorant SC',sans-serif;}
+
+#album {
+  background-color: #20252D;
+  color:white;}
+
+  #album .card-title {color:#867051;
+    font-family: 'Cormorant SC',sans-serif;;}
+
+
+    #footer {background-color: #20252D;
+    color:gray;}
+
+    #footer i {display: inline;
+      align-items: center;
+      color:#867051;}
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
